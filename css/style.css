@@ -1,0 +1,34 @@
+header {
+    background-color: #172430
+}
+
+header img {
+    width: 60px;
+}
+
+span, h4 {
+    color: white; 
+}
+
+body {
+    background-color: #1D2D3C;
+}
+
+.music-card {
+    background-color: black;
+    height: 350px;
+    text-align: center;
+    margin: 0 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.music-card img {
+    width: 140px;
+}
+
+.subtitle {
+    color: rgb(184, 184, 184);
+}
